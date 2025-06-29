@@ -7,7 +7,7 @@
 
 ---
 
-## Что нового — версия 1.5
+## Что нового — версия 1.7
 
 - ✅ Добавлена точная навигация по `Tab` — переход по клавише `Tab` теперь идет **сверху вниз, как на настоящем калькуляторе**.  
 - ➕ Теперь выбранный **знак операции отображается над полем ввода**, чтобы было ясно, что именно выбрано.  
@@ -56,7 +56,7 @@ It will receive regular updates and improvements. In the future, it may be publi
 
 ---
 
-## What’s New — Version 1.5
+## What’s New — Version 1.7
 
 - ✅ Added precise `Tab` navigation — you can now move **top to bottom** just like a real calculator.  
 - ➕ The selected **operator is now shown above the input**, so you can clearly see which operation is active.  
