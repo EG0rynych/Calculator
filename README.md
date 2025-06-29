@@ -7,9 +7,17 @@
 
 ---
 
+## Что нового — версия 1.5
+
+- ✅ Добавлена точная навигация по `Tab` — переход по клавише `Tab` теперь идет **сверху вниз, как на настоящем калькуляторе**.  
+- ➕ Теперь выбранный **знак операции отображается над полем ввода**, чтобы было ясно, что именно выбрано.  
+- ⌨️ Поддержка **ввода с клавиатуры** — можно пользоваться калькулятором, не нажимая кнопки мышкой.
+
+---
+
 ## Обратная связь
 
-Если у вас есть предложения или замечания, пишите на почту или в Telegram: [@EgorGorynych](https://t.me/EgorGorynych).
+Если у вас есть предложения или замечания, пишите на почту или в Telegram: @EgorGorynych.
 
 ---
 
@@ -37,6 +45,8 @@
 Спасибо за внимание и поддержку!  
 Удачи в программировании! 🚀
 
+---
+
 # Calculator — My First Plugin
 
 This is my first pet project — a simple calculator implemented as a browser extension.  
@@ -46,9 +56,17 @@ It will receive regular updates and improvements. In the future, it may be publi
 
 ---
 
+## What’s New — Version 1.5
+
+- ✅ Added precise `Tab` navigation — you can now move **top to bottom** just like a real calculator.  
+- ➕ The selected **operator is now shown above the input**, so you can clearly see which operation is active.  
+- ⌨️ **Keyboard input support** — you can now operate the calculator entirely with your keyboard.
+
+---
+
 ## Feedback
 
-If you have any suggestions or comments, please contact me by email or Telegram: [@EgorGorynych](https://t.me/EgorGorynych).
+If you have any suggestions or comments, please contact me by email or Telegram: @EgorGorynych.
 
 ---
 
@@ -75,3 +93,4 @@ This project is open for learning and further development.
 
 Thank you for your attention and support!  
 Happy coding! 🚀
+
