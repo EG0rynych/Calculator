@@ -1,7 +1,7 @@
-# Калькулятор — мой первый плагин
+# Калькулятор — первый плагин
 
 Это мой первый пет-проект — простой калькулятор, реализованный в виде браузерного плагина.  
-Плагин не содержит вредоносного кода — я только учусь программировать на JavaScript.  
+Плагин не содержит вредоносного кода.  
 
 Он будет получать регулярные обновления и улучшения. В будущем планируется публикация в магазинах расширений, а пока доступен для загрузки по ссылке.
 
@@ -50,7 +50,7 @@
 # Calculator — My First Plugin
 
 This is my first pet project — a simple calculator implemented as a browser extension.  
-The plugin contains no malicious code — I’m still learning JavaScript.
+The plugin contains no malicious code.
 
 It will receive regular updates and improvements. In the future, it may be published in extension stores, but for now it’s available for download via a link.
 
